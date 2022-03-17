@@ -16,6 +16,7 @@ public class SequenciaNumerica {
 		while (contador <= numero) {
 			System.out.println(contador);
 			contador++;
+			teclado.close();
 		}
 	}
 }

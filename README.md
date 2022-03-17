@@ -5,3 +5,5 @@
 # Exercício 02 - Linha de Crédito
 
 # Exercício 03 - Contagem Sequência numérica
+
+# Exercício 04 - Tabuada

@@ -7,3 +7,13 @@
 # Exercício 03 - Contagem Sequência numérica
 
 # Exercício 04 - Tabuada
+
+# Projeto01 - Criação das classes da primeira parte do projeto api Gama Curso Complementar
+
+Class Conta
+Class ContaCorrente
+Class ContaEspecial
+Class InterfaceConta
+class GerenciarContas
+
+# Em desenvolvimento 20/03/2022

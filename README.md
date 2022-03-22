@@ -37,3 +37,13 @@ FizzBuzzTest
 # Correção na class Conta nos métodos
 
 # Criação de packages core e ultil para organizar o projeto
+
+# Definida a class Conta como Abstract
+
+# Adicionada a aula 06 - Teste Unitários com novos exemplos de testar os métodos
+Somar
+Subtrair
+Multiplicar
+Dividir
+
+# Em construção

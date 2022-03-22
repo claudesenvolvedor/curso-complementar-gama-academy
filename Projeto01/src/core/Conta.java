@@ -1,45 +1,43 @@
 package core;
 
-
-public class Conta {
+public abstract class Conta {
 
 	private int numero;
 	private double saldo;
-	
-public Conta() {
-}
+
+	public Conta() {
+	}
 //fim do construtor padrão
 
-public boolean saca(double valor) {
-	if(this.saldo >= valor) {
-		this.saldo -= valor;
-		return true;
+	public boolean saca(double valor) {
+		if (this.saldo >= valor) {
+			this.saldo -= valor;
+			return true;
+		} else {
+			return false;
+		}
 	}
-	else {
-		return false;
-	}
-}
 //fim do método saca
 
-public void deposita(double valor) {
-	this.saldo = this.saldo + valor;
-}
+	public void deposita(double valor) {
+		this.saldo = this.saldo + valor;
+	}
 
 //fim do método deposita
 
-public int getNumero(int numero) {
-	return this.numero;
-}
+	public int getNumero(int numero) {
+		return this.numero;
+	}
 
 // fim do método getNumero
 
-public double getSaldo(double saldo) {
-	return this.saldo;
-}
+	public double getSaldo(double saldo) {
+		return this.saldo;
+	}
 //fim do método getSaldo
 
-@Override
-public String toString() {
-	return numero + "-" + saldo;
-}
+	@Override
+	public String toString() {
+		return numero + "-" + saldo;
+	}
 }

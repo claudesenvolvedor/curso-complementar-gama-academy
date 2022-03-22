@@ -1,5 +1,6 @@
+package core;
 
-public class TestaConta {
+public class TestaConta{
 public static void main(String[] args) {
 	Conta cliente1 = new Conta();
 	cliente1.deposita(1500);

@@ -38,8 +38,8 @@ public void deveRetornarAmultiplicacaoDosNumeros() {
 }
 @Test
 public void deveRetornarAdivisaoQuandoQuandoAdivisaoDiferenteDeZero() {
-	double resultado = c.subtrair(2, 2);
-	assertEquals(1, resultado);
+	double resultado = c.subtrair(20, 10);
+	assertEquals(10, resultado);
 	
 }
 @Test

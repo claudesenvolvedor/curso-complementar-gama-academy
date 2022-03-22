@@ -25,3 +25,15 @@ FizzBuss
 FizzBuzzTest
 
 # Em desenvolvimento
+
+# Implementação da  Class ContaCorrente com herança da class Conta
+
+# Implementação da class ContaEspecial com herança da class Conta
+
+# Adicionado o método sacar na class ContaCorrente
+
+# Adicionado o método sacar com limite na class ContaEspecial
+
+# Correção na class Conta nos métodos
+
+# Criação de packages core e ultil para organizar o projeto

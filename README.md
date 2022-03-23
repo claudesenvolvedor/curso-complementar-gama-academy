@@ -47,3 +47,13 @@ Multiplicar
 Dividir
 
 # Em construção
+
+# Correção das Class Conta, ContaCorrente, ContaEspecial
+
+Correção da super class
+
+# Criação da estrutura da Class GerenciaContas
+
+Criação dos métodos adicionar, exibir, consultar
+
+# em construção

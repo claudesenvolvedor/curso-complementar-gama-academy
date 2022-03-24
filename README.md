@@ -57,3 +57,9 @@ Correção da super class
 Criação dos métodos adicionar, exibir, consultar
 
 # em construção
+
+# Correção da class GerenciaContas
+
+Corrigi a construção do Array List
+
+# Em construção

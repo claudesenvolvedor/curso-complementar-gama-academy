@@ -1,4 +1,6 @@
-#Curso Complementar de Java ministrado pelo professor Emerson da Gama Academy
+#Curso Complementar de Java ministrado pelo professor Emerson da Gama Academy 2022
+
+# Claudeci Alves Pinheiro
 
 # Exercício 01 - Calculando a média do aluno
 
@@ -72,3 +74,5 @@ Esta class é a interface do programa
 Funcionando menu com escolha de opções
 
 #em construção
+
+# Adicionado as identações dos códigos em todos os arquivos .java

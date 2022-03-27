@@ -76,3 +76,13 @@ Funcionando menu com escolha de opções
 #em construção
 
 # Adicionado as identações dos códigos em todos os arquivos .java
+
+# Adicionado o projeto da Api Final
+
+***A api rodou sem problemas no java
+***Mas a conexão dos Dados do Banco de Dados com a Api não carregaram no navegador
+
+
+*** Obrigado a Gama Academy pela formação
+
+*** Obrigado ao professor Emerson pelo empenho, paciência e pelos ensinamentos

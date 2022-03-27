@@ -9,7 +9,7 @@ public class ContaEspecial extends Conta {
 	}
 
 	public boolean saca(double valor) {
-		if (this.getSaldo(valor) + this.limite < limite) {
+		if (getSaldo() + this.limite < limite) {
 			return true;
 		} else {
 			return false;
